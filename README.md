@@ -31,6 +31,8 @@ but regardless of your background, what you'll get out of math299w is: observing
 # Past Work 
 Here are works some students have made (for their final projects) in the past: 
 
+![Uploading 20221209_104759.jpg…]()
+
 ![20221209_104759](https://user-images.githubusercontent.com/45301066/213841823-7b3a8a99-2384-407a-887a-4ffa838fbf5b.jpg)
 _Above by CC_
 
