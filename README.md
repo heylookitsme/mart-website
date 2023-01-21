@@ -23,8 +23,8 @@ Check out the [syllabus](https://docs.google.com/document/d/10lPdbCKJwJJ2NltWgZf
 - and of course, a foundation in art of deeper understanding of design will let you make some really cool stuff & allow you to utilize some awesome art tools. 
 
 # Why Should You Take Mathematics and Art?
-- As an art/design/creative major: **please take this class** 
-- As a math/stem major: 
+- As an art/design/creative major: math299w can be a really worthwile toolbox for art or design. elements such as pattern and repetition in visual, audio, and even performance can be taken to another level when you take a mathematical view of it. think escher style tilings--that's math! also fractals and knots look super cool. 
+- As a math/stem major: math299w can touch on some really interesting math! origami <-> graph theory my beloved? also knot theory <-> topology, repetitions <-> groups. 
 - Other major: you're welcome to attend as well
 but regardless of your background, what you'll get out of math299w is: observing some really cool and interesting interplay between two fields that you might not see interplay every day. also youll get to make awesome paper turtles and patterns and fractals, oh my! 
 
