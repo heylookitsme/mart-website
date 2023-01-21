@@ -37,7 +37,7 @@ Here are works some students have made (for their final projects) in the past:
 *Origami Tessellations, Danjing Chen, Paper, Fall 2022*
 
 [![The Mathrooms (Found Footage)](https://img.youtube.com/vi/-FxE8Jv-qNA/maxresdefault.jpg)](https://www.youtube.com/watch?v=-FxE8Jv-qNA)
-*Oliver Adkins, Video 1280x720px 24fps, Fall 2022*
+*Oliver Adkins, Video 1280x720px 24fps, Fall 2022 (click the image to see the video ^ ! )*
 
 ![AO](https://user-images.githubusercontent.com/45301066/213845277-0d0b0911-baaa-4a2c-8c7d-625bb0c0d8e3.gif)
 *Ambient Occlusion in 3D Renderings, Ryan Punith, 1920x1080px, Fall 2022*
