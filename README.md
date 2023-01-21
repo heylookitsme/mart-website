@@ -36,7 +36,7 @@ Here are works some students have made (for their final projects) in the past:
 ![20221209_100409](https://user-images.githubusercontent.com/45301066/213845270-7dc658cf-67c7-4985-a679-9b76c38d18a5.jpg)
 *Origami Tessellations, Danjing Chen, Paper, Fall 2022*
 
-[![The Mathrooms (Found Footage)](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/-FxE8Jv-qNA))
+[![The Mathrooms (Found Footage)](https://img.youtube.com/vi/-FxE8Jv-qNA/maxresdefault.jpg)](https://www.youtube.com/watch?v=-FxE8Jv-qNA)
 *Oliver Adkins, Video 1280x720px 24fps, Fall 2022*
 
 ![AO](https://user-images.githubusercontent.com/45301066/213845277-0d0b0911-baaa-4a2c-8c7d-625bb0c0d8e3.gif)
