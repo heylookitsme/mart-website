@@ -42,7 +42,7 @@ Here are works some students have made (for their final projects) in the past:
 ![AO](https://user-images.githubusercontent.com/45301066/213845277-0d0b0911-baaa-4a2c-8c7d-625bb0c0d8e3.gif)
 <p align="center"><i>Ambient Occlusion in 3D Renderings, Ryan Punith, 1920x1080px, Fall 2022</i></p>
 
-![IMG_1096-1](https://user-images.githubusercontent.com/45301066/213845279-d3452831-5fa2-43dd-a022-ee1069528991.jpg)
+![IMG_1096-1](https://user-images.githubusercontent.com/45301066/213868196-b927981e-4dd5-4ebf-bce6-5049764d6caa.jpg)
 <p align="center"><i>Untitled, Kobe Wang, 8.5x11in Coloring Pencil, Fall 2022</i></p>
 
 ![2023-01-21_00-27](https://user-images.githubusercontent.com/45301066/213845283-67c2a3ad-fbee-46df-9461-0a429369524d.png)
