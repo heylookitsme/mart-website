@@ -25,9 +25,10 @@ Check out the [syllabus](https://docs.google.com/document/d/10lPdbCKJwJJ2NltWgZf
 - if you want it in numbers: math299w probably averages a 2hr/wk commitment at minimum.
 
 # Why Should You Take Mathematics and Art?
-- **As an art/design/creative major**: math299w can be a really worthwile toolbox for art or design. elements such as pattern and repetition in visual, audio, and even performance can be taken to another level when you take a mathematical view of it. think escher style tilings--that's math! also fractals and knots look super cool. 
+- **As an art/design/creative major**: math299w can be a really worthwhile toolbox for art or design. elements such as pattern and repetition in visual, audio, and even performance can be taken to another level when you take a mathematical view of it. think escher style tilings--that's math! also fractals and knots look super cool. 
 - **As a math/stem major**: math299w can touch on some really interesting math! origami <-> graph theory my beloved? also knot theory <-> topology, repetitions <-> groups. 
 - **Other major**: if the class sounds cool to you definitley come take it! there are a lot of interesting and fun things to learn :D 
+- 
 but regardless of your background, what you'll get out of math299w is: observing some really cool and interesting interplay between two fields that you might not see interplay every day. also youll get to make awesome paper turtles and patterns and fractals, oh my! 
 
 # Past Work 
