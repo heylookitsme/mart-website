@@ -34,6 +34,9 @@ but regardless of your background, what you'll get out of math299w is: observing
 # Past Work 
 Here are works some students have made (for their final projects) in the past: 
 
+![20221209_104759](https://user-images.githubusercontent.com/45301066/213845285-a001b9be-9dd4-4f14-972e-9095db689aeb.jpg)
+<p align="center"><i>Modular Origami Ocosahedron (6½ x 6½ x 6½ in) made of brightly-colored paper Sonobe units, CC, Fall 2022</i></p>
+
 ![20221209_100409](https://user-images.githubusercontent.com/45301066/213845270-7dc658cf-67c7-4985-a679-9b76c38d18a5.jpg)
 <p align="center"><i>Origami Tessellations, Danjing Chen, Paper, Fall 2022</i></p>
 
@@ -48,9 +51,6 @@ Here are works some students have made (for their final projects) in the past:
 
 ![2023-01-21_00-27](https://user-images.githubusercontent.com/45301066/213845283-67c2a3ad-fbee-46df-9461-0a429369524d.png)
 <p align="center"><i>Coding Audio Visualizers in Python, Philip Wu, Fall 2022</i></p>
-
-![20221209_104759](https://user-images.githubusercontent.com/45301066/213845285-a001b9be-9dd4-4f14-972e-9095db689aeb.jpg)
-<p align="center"><i>Modular Origami Ocosahedron (6½ x 6½ x 6½ in) made of brightly-colored paper Sonobe units, CC, Fall 2022</i></p>
 
 # Contact 
 If you have any questions, or would like to know more, email karthiks@terpmail.umd.edu or rwuu@terpmail.umd.edu. 
