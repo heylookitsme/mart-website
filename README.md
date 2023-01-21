@@ -1,6 +1,6 @@
 # MATH299W: Mathematics and Art
 ![mart_courseimg](https://user-images.githubusercontent.com/45301066/213841144-48479980-b5f5-495c-9d65-b87163b08e65.jpg)
-<p align="center">*origami turtles and butterflies made by students* </p>
+<p align="center"><i>origami turtles and butterflies made by students</i></p>
 Welcome! This is the MATH299W: _Mathematics and Art_ (MART) course website. This site is mostly here for informational purposes. Current students of MATH299W should check the Canvas page for class communications. 
 
 # About the Class
@@ -34,22 +34,22 @@ but regardless of your background, what you'll get out of math299w is: observing
 Here are works some students have made (for their final projects) in the past: 
 
 ![20221209_100409](https://user-images.githubusercontent.com/45301066/213845270-7dc658cf-67c7-4985-a679-9b76c38d18a5.jpg)
-*Origami Tessellations, Danjing Chen, Paper, Fall 2022*
+<p align="center"><i>Origami Tessellations, Danjing Chen, Paper, Fall 2022</i></p>
 
 [![The Mathrooms (Found Footage)](https://img.youtube.com/vi/-FxE8Jv-qNA/maxresdefault.jpg)](https://www.youtube.com/watch?v=-FxE8Jv-qNA)
-*Oliver Adkins, Video 1280x720px 24fps, Fall 2022 (click the image to see the video ^ ! )*
+<p align="center"><i>Oliver Adkins, Video 1280x720px 24fps, Fall 2022 (click the image to see the video ^ ! )</i></p>
 
 ![AO](https://user-images.githubusercontent.com/45301066/213845277-0d0b0911-baaa-4a2c-8c7d-625bb0c0d8e3.gif)
-*Ambient Occlusion in 3D Renderings, Ryan Punith, 1920x1080px, Fall 2022*
+<p align="center"><i>Ambient Occlusion in 3D Renderings, Ryan Punith, 1920x1080px, Fall 2022</i></p>
 
 ![IMG_1096-1](https://user-images.githubusercontent.com/45301066/213845279-d3452831-5fa2-43dd-a022-ee1069528991.jpg)
-*Untitled, Kobe Wang, 8.5x11in Coloring Pencil, Fall 2022*
+<p align="center"><i>Untitled, Kobe Wang, 8.5x11in Coloring Pencil, Fall 2022</i></p>
 
 ![2023-01-21_00-27](https://user-images.githubusercontent.com/45301066/213845283-67c2a3ad-fbee-46df-9461-0a429369524d.png)
-*Coding Audio Visualizers in Python, Philip Wu, Fall 2022*
+<p align="center"><i>Coding Audio Visualizers in Python, Philip Wu, Fall 2022</i></p>
 
 ![20221209_104759](https://user-images.githubusercontent.com/45301066/213845285-a001b9be-9dd4-4f14-972e-9095db689aeb.jpg)
-*Modular Origami Ocosahedron (6½ x 6½ x 6½ in) made of brightly-colored paper Sonobe units, CC, Fall 2022*
+<p align="center"><i>Modular Origami Ocosahedron (6½ x 6½ x 6½ in) made of brightly-colored paper Sonobe units, CC, Fall 2022</i></p>
 
 # Contact 
 If you have any questions, or would like to know more, email karthiks@terpmail.umd.edu or rwuu@terpmail.umd.edu. 
