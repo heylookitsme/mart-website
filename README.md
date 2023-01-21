@@ -55,3 +55,4 @@ Here are works some students have made (for their final projects) in the past:
 # Contact 
 If you have any questions, or would like to know more, email karthiks@terpmail.umd.edu or rwuu@terpmail.umd.edu. 
 
+<small>sidenote: you will see that this class is sometimes referred to as "Art and Mathematics". this is because it makes the class seem less scary. we typically opt for "Mathematics and Art", however, because if you take the M from Mathematics and combined it with "Art" -> you get "MArt", which is a really funny word. </small> 
