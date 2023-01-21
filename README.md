@@ -19,9 +19,9 @@ Check out the [syllabus](https://docs.google.com/document/d/10lPdbCKJwJJ2NltWgZf
 - **there is no background (in math or art) required needed to take this class. think of it like a gen ed but fancier and focused**. 
 - Yes, MATH299W has "math" in the title--but you *definitley do not need a math background to take this course and enjoy it a lot!*. Precalculus is preferred, but if you can add and subtract, you're golden :). 
   * we try to introduce the mathematical concepts in a way accessible to anyone (yes! even if you have no math background!), and provide a foundation for more rigorus study. 
-  * **YOU DO NOT NEED TO KNOW MATH!!! NOR DO YOU NEED TO KNOW ART!!!** if you wanna learn about or make some sick art peices or learn about or do some sick math, please take MATH299W!!!!! 
+  * **YOU DO NOT NEED TO KNOW MATH!!! NOR DO YOU NEED TO KNOW ART!!!**. if you wanna learn about or make some sick art peices or learn about or do some sick math, please take MATH299W!!!!! no reqs need apply!!!
 - of course, a deeper understanding of math might give you the foundation to do more stuff. of course, a foundation in art of deeper understanding of design will let you make some really cool stuff & allow you to utilize some awesome art tools. if you have that skill too, also take the course if you want to exercise the skills you already have :) 
-- if you want it in numbers: math299w is probably averages a 2-4hr/wk commitment at minimum. 
+- if you want it in numbers: math299w is probably averages a 2hr/wk commitment at minimum.
 
 # Why Should You Take Mathematics and Art?
 - **As an art/design/creative major**: math299w can be a really worthwile toolbox for art or design. elements such as pattern and repetition in visual, audio, and even performance can be taken to another level when you take a mathematical view of it. think escher style tilings--that's math! also fractals and knots look super cool. 
