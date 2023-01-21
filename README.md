@@ -1,6 +1,6 @@
 # MATH299W: Mathematics and Art
 ![mart_courseimg](https://user-images.githubusercontent.com/45301066/213841144-48479980-b5f5-495c-9d65-b87163b08e65.jpg)
-*origami turtles and butterflies made by students* 
+<p align="center">*origami turtles and butterflies made by students* </p>
 Welcome! This is the MATH299W: _Mathematics and Art_ (MART) course website. This site is mostly here for informational purposes. Current students of MATH299W should check the Canvas page for class communications. 
 
 # About the Class
