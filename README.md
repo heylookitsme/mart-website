@@ -31,18 +31,21 @@ but regardless of your background, what you'll get out of math299w is: observing
 Here are works some students have made (for their final projects) in the past: 
 
 ![20221209_104759](https://user-images.githubusercontent.com/45301066/213841823-7b3a8a99-2384-407a-887a-4ffa838fbf5b.jpg)
+
 _Above by CC_
 
 ![20221209_104824](https://user-images.githubusercontent.com/45301066/213841837-58a6633a-c621-42fa-ab26-8bfdf059ea04.jpg)
+
 _Above by Kevin He_
 
 ![20221209_100421](https://user-images.githubusercontent.com/45301066/213841860-c172ec9e-4704-4462-ae65-d92d9c3b3156.jpg)
+
 _Above by Sachi Pawar_
 
 ![20221209_102925](https://user-images.githubusercontent.com/45301066/213841869-3237ccff-b2c2-4fa7-8019-505d65046d48.jpg)
 _Above by Ryan Jung_
 
-_music one would be great (ben's)_
+_we've had music done in the past and it was fire_
   
 # Contact 
 If you have any questions, or would like to know more, email karthiks@terpmail.umd.edu or rwuu@terpmail.umd.edu. 
